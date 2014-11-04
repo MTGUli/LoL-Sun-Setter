@@ -1,0 +1,7 @@
+C:\Users\Dec\Documents\Visual Studio 2010\Projects\LoL Sun Changer\LoL Sun Changer\bin\Debug\LoL Sun Changer.exe
+C:\Users\Dec\Documents\Visual Studio 2010\Projects\LoL Sun Changer\LoL Sun Changer\bin\Debug\LoL Sun Changer.pdb
+C:\Users\Dec\Documents\Visual Studio 2010\Projects\LoL Sun Changer\LoL Sun Changer\obj\x86\Debug\LoL_Sun_Changer.Properties.Resources.resources
+C:\Users\Dec\Documents\Visual Studio 2010\Projects\LoL Sun Changer\LoL Sun Changer\obj\x86\Debug\LoL_Sun_Changer.SunChanger.resources
+C:\Users\Dec\Documents\Visual Studio 2010\Projects\LoL Sun Changer\LoL Sun Changer\obj\x86\Debug\LoL Sun Changer.csproj.GenerateResource.Cache
+C:\Users\Dec\Documents\Visual Studio 2010\Projects\LoL Sun Changer\LoL Sun Changer\obj\x86\Debug\LoL Sun Changer.exe
+C:\Users\Dec\Documents\Visual Studio 2010\Projects\LoL Sun Changer\LoL Sun Changer\obj\x86\Debug\LoL Sun Changer.pdb
